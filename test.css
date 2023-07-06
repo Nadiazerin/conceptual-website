@@ -6,3 +6,21 @@
     color: blue;
     cursor:url(""); auto;
 }
+.box{
+    padding: 20px;
+    background-color: red;
+    width: 110px;
+
+}
+.box2{
+    background-color: green;
+}
+.box3{
+    background-color: blueviolet;
+}
+.container{
+    display: flex;
+    justify-content: center;
+align-items: center;
+flex-direction: column-reverse;
+}
