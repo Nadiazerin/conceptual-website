@@ -66,3 +66,31 @@
     text-align: center;
     padding:20px;
 }
+.box{
+    width: 220px;
+    height: 280px;
+    box-shadow: 4px 4px 15px gray;
+    background-color: #000;
+    text-align: center;
+    padding:14px;
+    color: white;
+}
+.icon{
+    width: 70px;
+}
+.box-btn{
+    background-color: gray;
+    margin-top: 10px;
+}
+.box-title {
+    padding: 20px;
+}
+
+.box-description{
+    padding: 4px;
+}
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    padding:20px
+}
